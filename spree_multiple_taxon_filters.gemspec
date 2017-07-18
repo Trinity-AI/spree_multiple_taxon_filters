@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_multiple_taxon_filters'
-  s.version     = '2.4.0'
+  s.version     = '3.0.0'
   s.summary     = 'Allow multiple taxons to be selected by default in the spree frontend'
   s.required_ruby_version = '>= 1.9.3'
 
